@@ -1,0 +1,2 @@
+# Revenue-Management-and-Pricing-Fashion-Rental-Business-Case-Study
+This project focuses on optimizing pricing strategies and maximizing revenue for a London-based fashion rental company offering designer dresses. The analysis applies dynamic programming for peak periods and a price optimization model for regular days. The company offers flexible 4-day and 8-day rental options with regular and premium service tiers
